@@ -1,0 +1,11 @@
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\ClientSide\bin\Debug\ClientSide.exe.config
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\ClientSide\bin\Debug\ClientSide.exe
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\ClientSide\bin\Debug\ClientSide.pdb
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\ClientSide\bin\Debug\DAL.dll
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\ClientSide\bin\Debug\DAL.pdb
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\ClientSide\obj\Debug\ClientSide.csprojResolveAssemblyReference.cache
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\ClientSide\obj\Debug\ClientSide.frm_employees.resources
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\ClientSide\obj\Debug\ClientSide.Properties.Resources.resources
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\ClientSide\obj\Debug\ClientSide.csproj.GenerateResource.Cache
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\ClientSide\obj\Debug\ClientSide.exe
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\ClientSide\obj\Debug\ClientSide.pdb

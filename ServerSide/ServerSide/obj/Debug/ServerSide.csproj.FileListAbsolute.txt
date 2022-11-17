@@ -1,0 +1,8 @@
+c:\users\saleeraf\documents\visual studio 2013\Projects\ServerSide\ServerSide\bin\Debug\ServerSide.exe.config
+c:\users\saleeraf\documents\visual studio 2013\Projects\ServerSide\ServerSide\bin\Debug\ServerSide.exe
+c:\users\saleeraf\documents\visual studio 2013\Projects\ServerSide\ServerSide\bin\Debug\ServerSide.pdb
+c:\users\saleeraf\documents\visual studio 2013\Projects\ServerSide\ServerSide\bin\Debug\DAL.dll
+c:\users\saleeraf\documents\visual studio 2013\Projects\ServerSide\ServerSide\bin\Debug\DAL.pdb
+c:\users\saleeraf\documents\visual studio 2013\Projects\ServerSide\ServerSide\obj\Debug\ServerSide.csprojResolveAssemblyReference.cache
+c:\users\saleeraf\documents\visual studio 2013\Projects\ServerSide\ServerSide\obj\Debug\ServerSide.exe
+c:\users\saleeraf\documents\visual studio 2013\Projects\ServerSide\ServerSide\obj\Debug\ServerSide.pdb

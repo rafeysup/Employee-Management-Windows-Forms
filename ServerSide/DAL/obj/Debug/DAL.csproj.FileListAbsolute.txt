@@ -1,0 +1,9 @@
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\DAL\bin\Debug\DAL.dll
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\DAL\bin\Debug\DAL.pdb
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\DAL\obj\Debug\DAL.dll
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\DAL\obj\Debug\DAL.pdb
+C:\Users\saleeraf\Documents\Visual Studio 2013\Projects\ServerSide\DAL\bin\Debug\DAL.dll
+C:\Users\saleeraf\Documents\Visual Studio 2013\Projects\ServerSide\DAL\bin\Debug\DAL.pdb
+C:\Users\saleeraf\Documents\Visual Studio 2013\Projects\ServerSide\DAL\obj\Debug\DAL.dll
+C:\Users\saleeraf\Documents\Visual Studio 2013\Projects\ServerSide\DAL\obj\Debug\DAL.pdb

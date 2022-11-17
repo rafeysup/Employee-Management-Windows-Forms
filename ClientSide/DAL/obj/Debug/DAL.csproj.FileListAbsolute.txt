@@ -1,0 +1,4 @@
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\DAL\bin\Debug\DAL.dll
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\DAL\bin\Debug\DAL.pdb
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\DAL\obj\Debug\DAL.dll
+c:\users\saleeraf\documents\visual studio 2013\Projects\ClientSide\DAL\obj\Debug\DAL.pdb
